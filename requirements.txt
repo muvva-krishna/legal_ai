@@ -1,0 +1,5 @@
+python-docx
+google-generativeai
+tiktoken
+pydantic
+python-dotenv
